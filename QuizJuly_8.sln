@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizJuly_8", "QuizJuly_8\QuizJuly_8.csproj", "{C5323F95-826F-4A3F-8330-545CA05F1144}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizJuly_8_Part2", "QuizJuly_8_Part2\QuizJuly_8_Part2.csproj", "{582FC58B-A882-4DF7-A471-37A85CEDD3F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizJuly_8_Part3", "QuizJuly_8_Part3\QuizJuly_8_Part3.csproj", "{686DF3D3-C2BE-4205-83A9-40CEAF3B99DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C5323F95-826F-4A3F-8330-545CA05F1144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5323F95-826F-4A3F-8330-545CA05F1144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5323F95-826F-4A3F-8330-545CA05F1144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582FC58B-A882-4DF7-A471-37A85CEDD3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582FC58B-A882-4DF7-A471-37A85CEDD3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582FC58B-A882-4DF7-A471-37A85CEDD3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582FC58B-A882-4DF7-A471-37A85CEDD3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686DF3D3-C2BE-4205-83A9-40CEAF3B99DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686DF3D3-C2BE-4205-83A9-40CEAF3B99DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686DF3D3-C2BE-4205-83A9-40CEAF3B99DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686DF3D3-C2BE-4205-83A9-40CEAF3B99DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
